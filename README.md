@@ -48,4 +48,18 @@ Dans le cadre du développement du système d'aide à la décision, plusieurs fi
 - **Commandes :**  
   Les données structurées des commandes sont regroupées dans `FileJsonCommande.json`, générées par le script `generatJsonFile.py`.  
 
-Ces fichiers offrent une base essentielle pour effectuer des opérations **ETL**, alimenter un entrepôt de données et réaliser des analyses avancées via des outils de **Business Intelligence**.
+Ces fichiers offrent une base essentielle pour effectuer des opérations **ETL**, alimenter un entrepôt de données et réaliser des analyses avancées via des outils de **Business Intelligence**
+
+
+![image](https://github.com/user-attachments/assets/234313cc-471c-4b86-8f22-f669b7cdfe02)
+
+
+
+![image](https://github.com/user-attachments/assets/7dccd390-3e8a-4eec-9041-44ad77708098)
+
+
+
+
+
+
+
