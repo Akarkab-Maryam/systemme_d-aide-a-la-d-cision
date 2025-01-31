@@ -4,7 +4,7 @@
 - **Transformer**  :TRonsformer et nettoyer les données
 - **Charger** dans un entrepôt de données hébergé dans le cloud (par exemple, Google BigQuery ou Amazon Redshift)
 -  **Créations des dashbord  avec powerBI**
-- 
+  
 
 ---
 
