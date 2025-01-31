@@ -60,6 +60,18 @@ Ces fichiers offrent une base essentielle pour effectuer des opérations **ETL**
 
 
 
+![image](https://github.com/user-attachments/assets/412c31a7-32d8-44cc-a0c9-3acb0c306056)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/16fca726-17c3-425d-8345-a0309c7a5f54)
+
+
+
+
+
 
 
 
